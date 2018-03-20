@@ -1,0 +1,1 @@
+<footer style="text-align: center">@Copyright Ade Mustofa Blog</footer>
